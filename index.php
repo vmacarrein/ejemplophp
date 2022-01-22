@@ -1,4 +1,4 @@
 <?php
-print ("prueba de rollback")
+print ("prueba de rollback vicmac")
 phpinfo();
 ?>
